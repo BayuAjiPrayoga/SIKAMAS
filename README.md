@@ -550,5 +550,4 @@ QUEUE_CONNECTION=sync     # ✅ Proses antrian secara sinkron (tanpa database)
 Proyek ini dibuat untuk keperluan **tugas akademik**. Seluruh hak cipta desain dan kode milik pengembang.
 
 &copy; 2026 SIKAMAS — Sistem Informasi Kas Masjid
-#   S I K A M A S  
- 
+#
